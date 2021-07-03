@@ -18,7 +18,9 @@ git clone https://github.com/lq782655835/live-video-demo.git
 yarn && yarn dev
 ```
 
-2. 开启两个https://localhost:3001（注意是https协议）页面，一个作为直播端，一个作为展示端。
+2. 开启两个https://localhost:3001
+（注意是https协议）页面，一个作为直播端，一个作为展示端。
+如果显示不安全连接并且点击高级没有链接地址，在浏览器空白处键盘输入 thisisunsafe
 
 ## SSL问题
 
