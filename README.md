@@ -13,7 +13,7 @@
 1. 下载 & 运行项目
 
 ``` bash
-git clone https://github.com/lq782655835/live-video-demo.git
+git clone https://github.com/AwJayChou/WebRTC-demo.git
 
 yarn && yarn dev
 ```
